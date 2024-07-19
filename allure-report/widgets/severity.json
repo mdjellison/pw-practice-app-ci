@@ -1,0 +1,1 @@
+[{"uid":"dc23ce30fc0ba526","name":"paramaterized methods @smoke","time":{"start":1720400411018,"stop":1720400415380,"duration":4362},"status":"passed","severity":"normal"},{"uid":"3678f6d770f73fb7","name":"navigate to form page @smoke @regression","time":{"start":1720400405629,"stop":1720400410739,"duration":5110},"status":"passed","severity":"normal"}]
