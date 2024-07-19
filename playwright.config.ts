@@ -86,6 +86,7 @@ export default defineConfig<TestOptions>({
 //will spin up web server automatically
   webServer: {
     command: 'npm run start',
-    url: 'http://localhost:4200'
+    url: 'http://localhost:4200',
+    timeout: 500000
   }
 });
